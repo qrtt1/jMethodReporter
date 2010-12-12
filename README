@@ -1,1 +1,3 @@
 a simple tool dump the class file method invoke.
+
+java -cp reporter.jar [your_class_file]
